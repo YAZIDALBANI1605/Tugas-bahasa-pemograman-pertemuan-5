@@ -44,6 +44,12 @@ inilah hasil program tersebut:
 
 ![Screenshot 2024-10-19 105401](https://github.com/user-attachments/assets/e4be0ae6-0c1e-46ab-a947-1470668b5387)
 
+dan ini hasil tanpa menggunakan fungsi `print()` di tengah pada kode program di atas:
+
+![Screenshot 2024-10-19 105727](https://github.com/user-attachments/assets/ce8c4426-642e-4460-b59e-31b88d4bd59b)
+
+
+
 
 
 
