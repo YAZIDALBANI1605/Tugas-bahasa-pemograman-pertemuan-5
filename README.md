@@ -18,9 +18,18 @@ MATKUL:BAHASA PEMOGRAMAN
 <p># PENGGUNAAN END</p>
 <p># PENGGUNAAN SEREPATOR</p>
 <p># STRING FORMAT</p>
+
 ## PENGGUNAAN END
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/6d7f5c02-fa7a-46bf-97b4-1bf8f3a45e90">
-
+```python
+print('A', end='')
+print('b', end='')
+print('c', end='')
+print()
+print('x')
+print('y')
+print('z')
+````
 
 
 
