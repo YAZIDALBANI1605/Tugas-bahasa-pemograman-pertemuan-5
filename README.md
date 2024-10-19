@@ -48,6 +48,12 @@ dan ini hasil tanpa menggunakan fungsi `print()` di tengah pada kode program di 
 
 ![Screenshot 2024-10-19 105727](https://github.com/user-attachments/assets/ce8c4426-642e-4460-b59e-31b88d4bd59b)
 
+## PENGGUNAAN SEREPATOR
+
+![Screenshot 2024-10-19 105946](https://github.com/user-attachments/assets/f883e3f9-751b-4be6-973a-a1720cf8d062)
+
+
+
 
 
 
