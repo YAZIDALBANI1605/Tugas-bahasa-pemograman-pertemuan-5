@@ -68,6 +68,10 @@ Berikut Hasil Kode Program Diatas:
 
 ![Screenshot 2024-10-19 111502](https://github.com/user-attachments/assets/9afa0286-fcd8-437e-8319-0da6019ef34e)
 
+```python
+w, x, y, z, =10, 15, 20, 25
+````
+
 
 
 
