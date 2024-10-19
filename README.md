@@ -60,6 +60,14 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ````
+pada python penggunaan serepator dapat menggunakan fungsi `split()` atau `sep` yang seperti dalam kode program di atas
+
+serepator ini menentukan pembatasan yang digunakan untuk memisahkan sting,serepator dapat berupa karakter tunggal atau beberapa karakter.jika tidak ditentukan,maka python akan menggunakan spasi sebagai pemisah.
+
+Berikut Hasil Kode Program Diatas:
+
+![Screenshot 2024-10-19 111502](https://github.com/user-attachments/assets/9afa0286-fcd8-437e-8319-0da6019ef34e)
+
 
 
 
