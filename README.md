@@ -34,6 +34,12 @@ print('z')
 
 Parameter end dalam fungsi Print () di python di gunakan untuk menambahkan string(" ")apapun diakhir dan mengeluarkan pertanyaan print
 
+print()
+
+
+
+
+
 
 
 
