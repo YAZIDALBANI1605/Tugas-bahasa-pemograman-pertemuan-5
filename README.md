@@ -15,10 +15,9 @@ MATKUL:BAHASA PEMOGRAMAN
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/1447f1ff-cdc7-42cd-a86c-90956cac26f5">
 PEMBAHSAN MENGENAI:
-# PENGGUNAAN END
-# PENGGUNAAN SEREPATOR
-# STRING FORMAT
-
+<p># PENGGUNAAN END</p>
+<p># PENGGUNAAN SEREPATOR</p>
+<p># STRING FORMAT</p>
 ## PENGGUNAAN END
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/6d7f5c02-fa7a-46bf-97b4-1bf8f3a45e90">
 
