@@ -1,4 +1,4 @@
-<img width="712" alt="image" src="https://github.com/user-attachments/assets/d89e4159-4746-40f1-9708-09b519d464c1"># TUGAS-BAHASA-PEMOGRAMAN-PERTEMUAN-5 
+
 ## BIODATA
 NAMA: NAUFAL YAZID ALBANI
 
@@ -21,8 +21,14 @@ PEMBAHSAN MENGENAI:
 
 ## PENGGUNAAN END
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/6d7f5c02-fa7a-46bf-97b4-1bf8f3a45e90">
-
-
+print('A', end='')
+print('B', end='')
+print('c', end='')
+print()
+print('x')
+print('y')
+print('z')
+parameter end dalam fungsi print() di python di gunakan untuk menambahkan string (" ") apapun di akhir dan mengeluarkan pernyataan print
 
 
 
