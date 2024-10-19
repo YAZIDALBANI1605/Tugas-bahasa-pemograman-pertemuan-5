@@ -14,7 +14,7 @@ MATKUL:BAHASA PEMOGRAMAN
 # LATIHAN 3
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/1447f1ff-cdc7-42cd-a86c-90956cac26f5">
-PEMBAHSAN MENGENAI:
+<p>#PEMBAHSAN MENGENAI:</p>
 <p># PENGGUNAAN END</p>
 <p># PENGGUNAAN SEREPATOR</p>
 <p># STRING FORMAT</p>
