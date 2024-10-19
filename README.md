@@ -7,3 +7,9 @@ KELAS TI 24,A,4
 NIM:312410279
 
 MATKUL:BAHASA PEMOGRAMAN
+
+![Screenshot 2024-10-19 095852](https://github.com/user-attachments/assets/18c4eb26-8df1-45df-afb3-dee64f83a5f9)
+
+
+
+
