@@ -21,14 +21,6 @@ PEMBAHSAN MENGENAI:
 
 ## PENGGUNAAN END
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/6d7f5c02-fa7a-46bf-97b4-1bf8f3a45e90">
-print('A', end='')
-print('B', end='')
-print('c', end='')
-print()
-print('x')
-print('y')
-print('z')
-parameter end dalam fungsi print() di python di gunakan untuk menambahkan string (" ") apapun di akhir dan mengeluarkan pernyataan print
 
 
 
