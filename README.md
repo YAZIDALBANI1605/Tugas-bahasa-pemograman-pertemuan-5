@@ -172,7 +172,27 @@ Program ini akan menginputkan 3 bilangan dari a yang sampai dengan c.
 if a > b and a > c:
     print(f"angka lebih besar adalah {a}")
 ````
+Karna Jika {a} lebih besar dari {b} dan {a} lebih besar dari {c}, output yang keluar adalah {a}
 
+```python
+elif b > a and b > c:
+   print(f"angka lebih besar adalah {b}")
+````
+dan jika {b} lebih besar dari {a} dan {b} lebih besar dari {c} maka output yang keluar adalah {b}
+
+```python
+else:
+    print(f"angka lebih besar adalah {c}")
+````
+Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
+
+Ini adala hasil program tersebut :
+
+![Screenshot 2024-10-19 120045](https://github.com/user-attachments/assets/0216ca30-757d-4417-b1a4-693f310e737e)
+
+dengan eksekusi program:
+
+![Screenshot 2024-10-19 120703](https://github.com/user-attachments/assets/8ecdf7e8-5ad4-43e0-921d-de5f58b3b997)
 
 
 
