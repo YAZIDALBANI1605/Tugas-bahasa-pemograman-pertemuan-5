@@ -144,13 +144,34 @@ print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10))
 ````
 
-Kode inimencetak 11 baris dengan format `{0:3}` `{1:16}` yang di gunakan untuk mengatur format string
+Kode ini mencetak 11 baris dengan format `{0:3}` `{1:16}` yang di gunakan untuk mengatur format string
 
 Pada string pertama, angka `0` di format untuk memeliki lebar 3 karakter atau yang bisa disebut 3 kali spasi dengan perataan kanan.
 
 angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan perataan kanan, dan masing-masing mencetak nilai seperti format di atas dengan fungsi `print()`
 
+# KODE PROGRAM
 
+# 3 INPUT BILANGAN
+
+```Python
+a = int(input("masukan angka pertama: "))
+b = int(input("masukan angka kedua: "))
+c = int(input("masukan angka ketiga: "))
+
+if a > b and a > c:
+    print(f"angka lebih besar adalah {a}")
+elif b > a and b > c:
+    print(f"angka lebih besar adalah {b}")
+else:
+    print(f"angka lebih besar adalah {c}")
+````
+Program ini akan menginputkan 3 bilangan dari a yang sampai dengan c.
+
+```python
+if a > b and a > c:
+    print(f"angka lebih besar adalah {a}")
+````
 
 
 
