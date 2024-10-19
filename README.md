@@ -32,11 +32,16 @@ print('y')
 print('z')
 ````
 
-Parameter end dalam fungsi Print () di python di gunakan untuk menambahkan string(" ")apapun diakhir dan mengeluarkan pertanyaan print
+Parameter end dalam fungsi `Print ()` di python di gunakan untuk menambahkan string(" ")apapun diakhir dan mengeluarkan pertanyaan print
 
 ```python
 print()
 ````
+
+Secara default,fungsi `print()` akan mengakhiri dengan baris baru,dan akan secara otomatis karakter baris baru di akhir outputnya
+
+inilah hasil program tersebut:
+
 
 
 
