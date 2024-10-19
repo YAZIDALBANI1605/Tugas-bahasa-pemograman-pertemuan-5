@@ -52,6 +52,15 @@ dan ini hasil tanpa menggunakan fungsi `print()` di tengah pada kode program di 
 
 ![Screenshot 2024-10-19 105946](https://github.com/user-attachments/assets/f883e3f9-751b-4be6-973a-a1720cf8d062)
 
+```python
+w, x, y, z, =10, 15, 20, 25
+print(w, x, y, z,)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='-----')
+````
+
 
 
 
