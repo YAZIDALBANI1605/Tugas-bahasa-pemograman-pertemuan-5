@@ -194,6 +194,39 @@ dengan eksekusi program:
 
 ![Screenshot 2024-10-19 120703](https://github.com/user-attachments/assets/8ecdf7e8-5ad4-43e0-921d-de5f58b3b997)
 
+dan flowchart sebagai berikut:
+
+![Screenshot 2024-10-19 122816](https://github.com/user-attachments/assets/ba7daa01-2ed2-4fee-ae27-8670534f89ba)
+
+# MENENTUKAN BILANGAN TERBESAR DARI N DAN BERIKAN ANGKA 0
+
+```python
+while True:   
+    N = int(input("masukan angka: "))
+
+    if N == 0:
+        print(f"angaka terbesar adalah: {max}")
+        break
+    if N > max:
+        max = N
+````
+
+Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fungsi `max()`
+
+```python
+max = 0
+````
+Masukkan daftar angka ke fungsi `max()`, Fungsi `max()` akan mengembalikan angka terbesar dalam daftar
+
+Fungsi `max()` adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.
+
+```python
+if N == 0:
+        print(f"angka yang terbesar adalah: {max}")
+        break
+```
+Fungsi ini jika Kita memasukan inputan integer yaitu 0 akan berlanjut ke fungsi break program dihentikan yang artinya selesai.
+
 
 
 
