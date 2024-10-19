@@ -42,6 +42,8 @@ Secara default,fungsi `print()` akan mengakhiri dengan baris baru,dan akan secar
 
 inilah hasil program tersebut:
 
+![Screenshot 2024-10-19 105401](https://github.com/user-attachments/assets/e4be0ae6-0c1e-46ab-a947-1470668b5387)
+
 
 
 
