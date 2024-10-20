@@ -9,12 +9,12 @@ NIM:312410279
 MATKUL:BAHASA PEMOGRAMAN
 
 ![Screenshot 2024-10-19 095852](https://github.com/user-attachments/assets/18c4eb26-8df1-45df-afb3-dee64f83a5f9)
-##PRAKTIKUM 3
+## PRAKTIKUM 3
 
 # LATIHAN 1
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/1447f1ff-cdc7-42cd-a86c-90956cac26f5">
-<p>#PEMBAHSAN MENGENAI:</p>
+<p># PEMBAHSAN MENGENAI:</p>
 <p># PENGGUNAAN END</p>
 <p># PENGGUNAAN SEREPATOR</p>
 <p># STRING FORMAT</p>
